@@ -1,0 +1,10 @@
+Escolher um segmento de Mercado.
+
+O projeto deve conter: 
+- alteração de cor; 
+- moldura ao redor de toda a tela usando caracter ASCII;
+- configurar para aceitar acentuação;
+- tela de entrada apresentar um Desenho;
+- Menu principal (opções mínimas Cadastro, Lançamentos ou Vendas ou Movimentação, Relatório e Sair) usando switch e while ou do-while, 
+devendo executar várias vezes até selecionar a opção Sair;
+- Proibido uso de Modularização pois o conceito ainda não foi ensinado.
